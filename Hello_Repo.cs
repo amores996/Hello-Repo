@@ -10,7 +10,7 @@ namespace Hello_Repo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Repo!");   //Prueba pull.
+            Console.WriteLine("Hello Repo!");   //Prueba push a secas.
         }
     }
 }
